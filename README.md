@@ -6,11 +6,13 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/samjoel11/coding_problems/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/samjoel11/coding_problems/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/samjoel11/coding_problems/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/samjoel11/coding_problems/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/samjoel11/coding_problems/tree/master/0060-permutation-sequence) |
 ## Dynamic Programming
 |  |
@@ -20,4 +22,8 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/samjoel11/coding_problems/tree/master/0062-unique-paths) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/samjoel11/coding_problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
