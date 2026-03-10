@@ -7,8 +7,17 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/samjoel11/coding_problems/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/samjoel11/coding_problems/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/samjoel11/coding_problems/tree/master/0060-permutation-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/samjoel11/coding_problems/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/samjoel11/coding_problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
