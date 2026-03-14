@@ -18,6 +18,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/samjoel11/coding_problems/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0064-minimum-path-sum) |
 ## Combinatorics
 |  |
 | ------- |
@@ -26,4 +27,12 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/samjoel11/coding_problems/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0064-minimum-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
