@@ -35,4 +35,8 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0064-minimum-path-sum) |
+## String
+|  |
+| ------- |
+| [0065-valid-number](https://github.com/samjoel11/coding_problems/tree/master/0065-valid-number) |
 <!---LeetCode Topics End-->
