@@ -9,6 +9,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0002-add-two-numbers](https://github.com/samjoel11/coding_problems/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/samjoel11/coding_problems/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/samjoel11/coding_problems/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/samjoel11/coding_problems/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
@@ -31,6 +32,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/samjoel11/coding_problems/tree/master/0066-plus-one) |
 ## Matrix
 |  |
 | ------- |
