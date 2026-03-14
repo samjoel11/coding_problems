@@ -33,6 +33,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | ------- |
 | [0064-minimum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/samjoel11/coding_problems/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/samjoel11/coding_problems/tree/master/0068-text-justification) |
 ## Matrix
 |  |
 | ------- |
@@ -41,4 +42,9 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/samjoel11/coding_problems/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/samjoel11/coding_problems/tree/master/0068-text-justification) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/samjoel11/coding_problems/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
