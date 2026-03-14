@@ -10,6 +10,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0060-permutation-sequence](https://github.com/samjoel11/coding_problems/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/samjoel11/coding_problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/samjoel11/coding_problems/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/samjoel11/coding_problems/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -47,4 +48,8 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/samjoel11/coding_problems/tree/master/0068-text-justification) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/samjoel11/coding_problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
