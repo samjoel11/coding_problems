@@ -36,6 +36,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0066-plus-one](https://github.com/samjoel11/coding_problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/samjoel11/coding_problems/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/samjoel11/coding_problems/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/samjoel11/coding_problems/tree/master/0075-sort-colors) |
 ## Matrix
 |  |
 | ------- |
@@ -63,4 +64,12 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/samjoel11/coding_problems/tree/master/0073-set-matrix-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/samjoel11/coding_problems/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/samjoel11/coding_problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
