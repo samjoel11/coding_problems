@@ -44,6 +44,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | ------- |
 | [0065-valid-number](https://github.com/samjoel11/coding_problems/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/samjoel11/coding_problems/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/samjoel11/coding_problems/tree/master/0071-simplify-path) |
 ## Simulation
 |  |
 | ------- |
@@ -52,4 +53,8 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/samjoel11/coding_problems/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/samjoel11/coding_problems/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
