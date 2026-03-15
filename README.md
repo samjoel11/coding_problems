@@ -37,17 +37,20 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0068-text-justification](https://github.com/samjoel11/coding_problems/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/samjoel11/coding_problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/samjoel11/coding_problems/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/samjoel11/coding_problems/tree/master/0079-word-search) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/samjoel11/coding_problems/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/samjoel11/coding_problems/tree/master/0079-word-search) |
 ## String
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/samjoel11/coding_problems/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/samjoel11/coding_problems/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/samjoel11/coding_problems/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/samjoel11/coding_problems/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -76,4 +79,9 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0077-combinations](https://github.com/samjoel11/coding_problems/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/samjoel11/coding_problems/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/samjoel11/coding_problems/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
