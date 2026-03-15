@@ -4,15 +4,27 @@
  * @return {Function}
  */
 var timeLimit = function(fn, t) {
-	return async function(...args) {
-        const originalFnPromise = fn(...args);
+  return async function(...args) {
+    return new Promise((delayresolve, reject) => {
+      const timeoutId = setTimeout(() => {
+        clearTimeout(timeoutId);
+        reject("Time Limit Exceeded");
+      }, t);
 
-        const timeoutPromise = new Promise((_, reject) => {
-            setTimeout(() => {
-                reject('Time Limit Exceeded')
-            }, t);
+      fn(...args)
+        .then((result) => {
+          clearTimeout(timeoutId);
+          delayresolve(result);
         })
-
-        return Promise.race([originalFnPromise, timeoutPromise]);
-    }
+        .catch((error) => {
+          clearTimeout(timeoutId);
+          reject(error);
+        });
+    });
+  };
 };
+
+/**
+ * const limited = timeLimit((t) => new Promise(res => setTimeout(res, t)), 100);
+ * limited(150).catch(console.log) // "Time Limit Exceeded" at t=100ms
+ */
