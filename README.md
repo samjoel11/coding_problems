@@ -35,10 +35,12 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0064-minimum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/samjoel11/coding_problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/samjoel11/coding_problems/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/samjoel11/coding_problems/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/samjoel11/coding_problems/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
@@ -57,4 +59,8 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/samjoel11/coding_problems/tree/master/0071-simplify-path) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/samjoel11/coding_problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
