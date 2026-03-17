@@ -21,6 +21,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | ------- |
 | [0062-unique-paths](https://github.com/samjoel11/coding_problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/samjoel11/coding_problems/tree/master/0072-edit-distance) |
 ## Combinatorics
 |  |
 | ------- |
@@ -50,6 +51,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0065-valid-number](https://github.com/samjoel11/coding_problems/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/samjoel11/coding_problems/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/samjoel11/coding_problems/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/samjoel11/coding_problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/samjoel11/coding_problems/tree/master/0079-word-search) |
 ## Simulation
 |  |
