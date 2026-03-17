@@ -39,6 +39,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0073-set-matrix-zeroes](https://github.com/samjoel11/coding_problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/samjoel11/coding_problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/samjoel11/coding_problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/samjoel11/coding_problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/samjoel11/coding_problems/tree/master/0079-word-search) |
 ## Matrix
 |  |
@@ -86,6 +87,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0077-combinations](https://github.com/samjoel11/coding_problems/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/samjoel11/coding_problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/samjoel11/coding_problems/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
@@ -95,4 +97,8 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/samjoel11/coding_problems/tree/master/0076-minimum-window-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/samjoel11/coding_problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
