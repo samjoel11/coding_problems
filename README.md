@@ -54,6 +54,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0068-text-justification](https://github.com/samjoel11/coding_problems/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/samjoel11/coding_problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/samjoel11/coding_problems/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/samjoel11/coding_problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/samjoel11/coding_problems/tree/master/0079-word-search) |
 ## Simulation
 |  |
@@ -72,6 +73,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/samjoel11/coding_problems/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/samjoel11/coding_problems/tree/master/0076-minimum-window-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,4 +91,8 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0079-word-search](https://github.com/samjoel11/coding_problems/tree/master/0079-word-search) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/samjoel11/coding_problems/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
