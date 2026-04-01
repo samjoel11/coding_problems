@@ -11,6 +11,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0062-unique-paths](https://github.com/samjoel11/coding_problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/samjoel11/coding_problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/samjoel11/coding_problems/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/samjoel11/coding_problems/tree/master/0089-gray-code) |
 ## Recursion
 |  |
 | ------- |
@@ -102,6 +103,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0077-combinations](https://github.com/samjoel11/coding_problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/samjoel11/coding_problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/samjoel11/coding_problems/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/samjoel11/coding_problems/tree/master/0089-gray-code) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -114,6 +116,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0078-subsets](https://github.com/samjoel11/coding_problems/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/samjoel11/coding_problems/tree/master/0089-gray-code) |
 ## Monotonic Stack
 |  |
 | ------- |
