@@ -46,6 +46,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/samjoel11/coding_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/samjoel11/coding_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/samjoel11/coding_problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/samjoel11/coding_problems/tree/master/0088-merge-sorted-array) |
 ## Matrix
 |  |
 | ------- |
@@ -89,10 +90,12 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0075-sort-colors](https://github.com/samjoel11/coding_problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/samjoel11/coding_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/samjoel11/coding_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/samjoel11/coding_problems/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/samjoel11/coding_problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/samjoel11/coding_problems/tree/master/0088-merge-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
