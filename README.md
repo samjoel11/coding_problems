@@ -54,6 +54,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0088-merge-sorted-array](https://github.com/samjoel11/coding_problems/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/samjoel11/coding_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/samjoel11/coding_problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/samjoel11/coding_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/samjoel11/coding_problems/tree/master/0174-dungeon-game) |
 ## Matrix
 |  |
@@ -84,6 +85,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0069-sqrtx](https://github.com/samjoel11/coding_problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/samjoel11/coding_problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/samjoel11/coding_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/samjoel11/coding_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Stack
 |  |
 | ------- |
