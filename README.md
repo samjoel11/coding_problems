@@ -80,6 +80,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0087-scramble-string](https://github.com/samjoel11/coding_problems/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/samjoel11/coding_problems/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/samjoel11/coding_problems/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/samjoel11/coding_problems/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/samjoel11/coding_problems/tree/master/0132-palindrome-partitioning-ii) |
 ## Simulation
 |  |
@@ -103,6 +104,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0073-set-matrix-zeroes](https://github.com/samjoel11/coding_problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/samjoel11/coding_problems/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/samjoel11/coding_problems/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/samjoel11/coding_problems/tree/master/0127-word-ladder) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,4 +151,5 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/samjoel11/coding_problems/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/samjoel11/coding_problems/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
