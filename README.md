@@ -24,6 +24,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0064-minimum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/samjoel11/coding_problems/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/samjoel11/coding_problems/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/samjoel11/coding_problems/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/samjoel11/coding_problems/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/samjoel11/coding_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/samjoel11/coding_problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -81,6 +82,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0076-minimum-window-substring](https://github.com/samjoel11/coding_problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/samjoel11/coding_problems/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/samjoel11/coding_problems/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/samjoel11/coding_problems/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/samjoel11/coding_problems/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/samjoel11/coding_problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/samjoel11/coding_problems/tree/master/0127-word-ladder) |
