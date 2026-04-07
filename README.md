@@ -13,11 +13,13 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0069-sqrtx](https://github.com/samjoel11/coding_problems/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/samjoel11/coding_problems/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/samjoel11/coding_problems/tree/master/0149-max-points-on-a-line) |
+| [0224-basic-calculator](https://github.com/samjoel11/coding_problems/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/samjoel11/coding_problems/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/samjoel11/coding_problems/tree/master/0060-permutation-sequence) |
+| [0224-basic-calculator](https://github.com/samjoel11/coding_problems/tree/master/0224-basic-calculator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +94,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0127-word-ladder](https://github.com/samjoel11/coding_problems/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/samjoel11/coding_problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/samjoel11/coding_problems/tree/master/0140-word-break-ii) |
+| [0224-basic-calculator](https://github.com/samjoel11/coding_problems/tree/master/0224-basic-calculator) |
 ## Simulation
 |  |
 | ------- |
@@ -108,6 +111,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | ------- |
 | [0071-simplify-path](https://github.com/samjoel11/coding_problems/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/samjoel11/coding_problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0224-basic-calculator](https://github.com/samjoel11/coding_problems/tree/master/0224-basic-calculator) |
 ## Hash Table
 |  |
 | ------- |
