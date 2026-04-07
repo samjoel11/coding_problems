@@ -29,6 +29,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0115-distinct-subsequences](https://github.com/samjoel11/coding_problems/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/samjoel11/coding_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/samjoel11/coding_problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/samjoel11/coding_problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/samjoel11/coding_problems/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/samjoel11/coding_problems/tree/master/0174-dungeon-game) |
@@ -141,6 +142,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0079-word-search](https://github.com/samjoel11/coding_problems/tree/master/0079-word-search) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -177,4 +179,12 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/samjoel11/coding_problems/tree/master/0149-max-points-on-a-line) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
