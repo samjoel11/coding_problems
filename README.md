@@ -67,6 +67,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/samjoel11/coding_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/samjoel11/coding_problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/samjoel11/coding_problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0220-contains-duplicate-iii](https://github.com/samjoel11/coding_problems/tree/master/0220-contains-duplicate-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -128,6 +129,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | ------- |
 | [0075-sort-colors](https://github.com/samjoel11/coding_problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/samjoel11/coding_problems/tree/master/0088-merge-sorted-array) |
+| [0220-contains-duplicate-iii](https://github.com/samjoel11/coding_problems/tree/master/0220-contains-duplicate-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -147,6 +149,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/samjoel11/coding_problems/tree/master/0076-minimum-window-substring) |
+| [0220-contains-duplicate-iii](https://github.com/samjoel11/coding_problems/tree/master/0220-contains-duplicate-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -187,4 +190,12 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0124-binary-tree-maximum-path-sum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/samjoel11/coding_problems/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/samjoel11/coding_problems/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
