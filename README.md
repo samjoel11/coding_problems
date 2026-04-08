@@ -15,6 +15,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0096-unique-binary-search-trees](https://github.com/samjoel11/coding_problems/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/samjoel11/coding_problems/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/samjoel11/coding_problems/tree/master/0224-basic-calculator) |
+| [0282-expression-add-operators](https://github.com/samjoel11/coding_problems/tree/master/0282-expression-add-operators) |
 ## Recursion
 |  |
 | ------- |
@@ -102,6 +103,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0140-word-break-ii](https://github.com/samjoel11/coding_problems/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/samjoel11/coding_problems/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/samjoel11/coding_problems/tree/master/0224-basic-calculator) |
+| [0282-expression-add-operators](https://github.com/samjoel11/coding_problems/tree/master/0282-expression-add-operators) |
 ## Simulation
 |  |
 | ------- |
@@ -153,6 +155,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0126-word-ladder-ii](https://github.com/samjoel11/coding_problems/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/samjoel11/coding_problems/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/samjoel11/coding_problems/tree/master/0212-word-search-ii) |
+| [0282-expression-add-operators](https://github.com/samjoel11/coding_problems/tree/master/0282-expression-add-operators) |
 ## Depth-First Search
 |  |
 | ------- |
