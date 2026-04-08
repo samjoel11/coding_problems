@@ -50,6 +50,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0002-add-two-numbers](https://github.com/samjoel11/coding_problems/tree/master/0002-add-two-numbers) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/samjoel11/coding_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0146-lru-cache](https://github.com/samjoel11/coding_problems/tree/master/0146-lru-cache) |
+| [0147-insertion-sort-list](https://github.com/samjoel11/coding_problems/tree/master/0147-insertion-sort-list) |
 ## Array
 |  |
 | ------- |
@@ -145,6 +146,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | ------- |
 | [0075-sort-colors](https://github.com/samjoel11/coding_problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/samjoel11/coding_problems/tree/master/0088-merge-sorted-array) |
+| [0147-insertion-sort-list](https://github.com/samjoel11/coding_problems/tree/master/0147-insertion-sort-list) |
 | [0220-contains-duplicate-iii](https://github.com/samjoel11/coding_problems/tree/master/0220-contains-duplicate-iii) |
 ## Backtracking
 |  |
