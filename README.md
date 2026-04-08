@@ -73,6 +73,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0140-word-break-ii](https://github.com/samjoel11/coding_problems/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/samjoel11/coding_problems/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/samjoel11/coding_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/samjoel11/coding_problems/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/samjoel11/coding_problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/samjoel11/coding_problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0212-word-search-ii](https://github.com/samjoel11/coding_problems/tree/master/0212-word-search-ii) |
@@ -118,6 +119,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0074-search-a-2d-matrix](https://github.com/samjoel11/coding_problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/samjoel11/coding_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/samjoel11/coding_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/samjoel11/coding_problems/tree/master/0162-find-peak-element) |
 ## Stack
 |  |
 | ------- |
