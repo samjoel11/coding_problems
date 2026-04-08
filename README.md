@@ -111,6 +111,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | ------- |
 | [0071-simplify-path](https://github.com/samjoel11/coding_problems/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/samjoel11/coding_problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/samjoel11/coding_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/samjoel11/coding_problems/tree/master/0224-basic-calculator) |
 ## Hash Table
 |  |
@@ -148,6 +149,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0079-word-search](https://github.com/samjoel11/coding_problems/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/samjoel11/coding_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Sliding Window
 |  |
@@ -189,10 +191,12 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/samjoel11/coding_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/samjoel11/coding_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Bucket Sort
 |  |
