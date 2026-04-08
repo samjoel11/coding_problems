@@ -12,6 +12,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0066-plus-one](https://github.com/samjoel11/coding_problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/samjoel11/coding_problems/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/samjoel11/coding_problems/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/samjoel11/coding_problems/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/samjoel11/coding_problems/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/samjoel11/coding_problems/tree/master/0224-basic-calculator) |
 ## Recursion
@@ -28,6 +29,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0072-edit-distance](https://github.com/samjoel11/coding_problems/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/samjoel11/coding_problems/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/samjoel11/coding_problems/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/samjoel11/coding_problems/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/samjoel11/coding_problems/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/samjoel11/coding_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/samjoel11/coding_problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -192,11 +194,13 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/samjoel11/coding_problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/samjoel11/coding_problems/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/samjoel11/coding_problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/samjoel11/coding_problems/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Bucket Sort
 |  |
@@ -206,4 +210,8 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/samjoel11/coding_problems/tree/master/0220-contains-duplicate-iii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/samjoel11/coding_problems/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
