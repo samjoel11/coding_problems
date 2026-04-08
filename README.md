@@ -104,6 +104,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0132-palindrome-partitioning-ii](https://github.com/samjoel11/coding_problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/samjoel11/coding_problems/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/samjoel11/coding_problems/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/samjoel11/coding_problems/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/samjoel11/coding_problems/tree/master/0224-basic-calculator) |
 | [0282-expression-add-operators](https://github.com/samjoel11/coding_problems/tree/master/0282-expression-add-operators) |
 ## Simulation
@@ -236,4 +237,16 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/samjoel11/coding_problems/tree/master/0146-lru-cache) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/samjoel11/coding_problems/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/samjoel11/coding_problems/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/samjoel11/coding_problems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
