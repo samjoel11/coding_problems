@@ -78,6 +78,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/samjoel11/coding_problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0212-word-search-ii](https://github.com/samjoel11/coding_problems/tree/master/0212-word-search-ii) |
 | [0220-contains-duplicate-iii](https://github.com/samjoel11/coding_problems/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/samjoel11/coding_problems/tree/master/0239-sliding-window-maximum) |
 ## Matrix
 |  |
 | ------- |
@@ -176,6 +177,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | ------- |
 | [0076-minimum-window-substring](https://github.com/samjoel11/coding_problems/tree/master/0076-minimum-window-substring) |
 | [0220-contains-duplicate-iii](https://github.com/samjoel11/coding_problems/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/samjoel11/coding_problems/tree/master/0239-sliding-window-maximum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -263,4 +265,16 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/samjoel11/coding_problems/tree/master/0185-department-top-three-salaries) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/samjoel11/coding_problems/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/samjoel11/coding_problems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/samjoel11/coding_problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
