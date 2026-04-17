@@ -259,4 +259,8 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/samjoel11/coding_problems/tree/master/0214-shortest-palindrome) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/samjoel11/coding_problems/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
