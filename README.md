@@ -168,6 +168,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | ------- |
 | [0079-word-search](https://github.com/samjoel11/coding_problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/samjoel11/coding_problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/samjoel11/coding_problems/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Sliding Window
 |  |
@@ -212,12 +213,14 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/samjoel11/coding_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/samjoel11/coding_problems/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/samjoel11/coding_problems/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/samjoel11/coding_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/samjoel11/coding_problems/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/samjoel11/coding_problems/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Bucket Sort
 |  |
@@ -231,6 +234,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/samjoel11/coding_problems/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/samjoel11/coding_problems/tree/master/0098-validate-binary-search-tree) |
 ## Design
 |  |
 | ------- |
