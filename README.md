@@ -148,6 +148,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/samjoel11/coding_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/samjoel11/coding_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/samjoel11/coding_problems/tree/master/0088-merge-sorted-array) |
+| [0295-find-median-from-data-stream](https://github.com/samjoel11/coding_problems/tree/master/0295-find-median-from-data-stream) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +156,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0088-merge-sorted-array](https://github.com/samjoel11/coding_problems/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/samjoel11/coding_problems/tree/master/0147-insertion-sort-list) |
 | [0220-contains-duplicate-iii](https://github.com/samjoel11/coding_problems/tree/master/0220-contains-duplicate-iii) |
+| [0295-find-median-from-data-stream](https://github.com/samjoel11/coding_problems/tree/master/0295-find-median-from-data-stream) |
 ## Backtracking
 |  |
 | ------- |
@@ -258,6 +260,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/samjoel11/coding_problems/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/samjoel11/coding_problems/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -286,8 +289,13 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/samjoel11/coding_problems/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/samjoel11/coding_problems/tree/master/0295-find-median-from-data-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/samjoel11/coding_problems/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/samjoel11/coding_problems/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
