@@ -14,6 +14,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0089-gray-code](https://github.com/samjoel11/coding_problems/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/samjoel11/coding_problems/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/samjoel11/coding_problems/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/samjoel11/coding_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/samjoel11/coding_problems/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/samjoel11/coding_problems/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/samjoel11/coding_problems/tree/master/0282-expression-add-operators) |
@@ -74,6 +75,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0135-candy](https://github.com/samjoel11/coding_problems/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/samjoel11/coding_problems/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/samjoel11/coding_problems/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/samjoel11/coding_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/samjoel11/coding_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/samjoel11/coding_problems/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/samjoel11/coding_problems/tree/master/0174-dungeon-game) |
@@ -130,6 +132,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0071-simplify-path](https://github.com/samjoel11/coding_problems/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/samjoel11/coding_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/samjoel11/coding_problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/samjoel11/coding_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/samjoel11/coding_problems/tree/master/0224-basic-calculator) |
 ## Hash Table
 |  |
