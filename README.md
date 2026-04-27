@@ -41,6 +41,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0124-binary-tree-maximum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/samjoel11/coding_problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/samjoel11/coding_problems/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/samjoel11/coding_problems/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/samjoel11/coding_problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/samjoel11/coding_problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 ## Combinatorics
@@ -76,6 +77,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0140-word-break-ii](https://github.com/samjoel11/coding_problems/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/samjoel11/coding_problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/samjoel11/coding_problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/samjoel11/coding_problems/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/samjoel11/coding_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/samjoel11/coding_problems/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/samjoel11/coding_problems/tree/master/0174-dungeon-game) |
