@@ -62,6 +62,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/samjoel11/coding_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/samjoel11/coding_problems/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/samjoel11/coding_problems/tree/master/0147-insertion-sort-list) |
+| [0432-all-oone-data-structure](https://github.com/samjoel11/coding_problems/tree/master/0432-all-oone-data-structure) |
 ## Array
 |  |
 | ------- |
@@ -173,6 +174,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0149-max-points-on-a-line](https://github.com/samjoel11/coding_problems/tree/master/0149-max-points-on-a-line) |
 | [0336-palindrome-pairs](https://github.com/samjoel11/coding_problems/tree/master/0336-palindrome-pairs) |
 | [0391-perfect-rectangle](https://github.com/samjoel11/coding_problems/tree/master/0391-perfect-rectangle) |
+| [0432-all-oone-data-structure](https://github.com/samjoel11/coding_problems/tree/master/0432-all-oone-data-structure) |
 ## Two Pointers
 |  |
 | ------- |
@@ -321,10 +323,12 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0146-lru-cache](https://github.com/samjoel11/coding_problems/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/samjoel11/coding_problems/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/samjoel11/coding_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0432-all-oone-data-structure](https://github.com/samjoel11/coding_problems/tree/master/0432-all-oone-data-structure) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/samjoel11/coding_problems/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/samjoel11/coding_problems/tree/master/0432-all-oone-data-structure) |
 ## Rolling Hash
 |  |
 | ------- |
