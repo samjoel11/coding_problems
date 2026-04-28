@@ -64,6 +64,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/samjoel11/coding_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/samjoel11/coding_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/samjoel11/coding_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0138-copy-list-with-random-pointer](https://github.com/samjoel11/coding_problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/samjoel11/coding_problems/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/samjoel11/coding_problems/tree/master/0147-insertion-sort-list) |
 | [0432-all-oone-data-structure](https://github.com/samjoel11/coding_problems/tree/master/0432-all-oone-data-structure) |
@@ -178,6 +179,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0126-word-ladder-ii](https://github.com/samjoel11/coding_problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/samjoel11/coding_problems/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/samjoel11/coding_problems/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/samjoel11/coding_problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/samjoel11/coding_problems/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/samjoel11/coding_problems/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/samjoel11/coding_problems/tree/master/0149-max-points-on-a-line) |
