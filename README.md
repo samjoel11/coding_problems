@@ -19,6 +19,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0273-integer-to-english-words](https://github.com/samjoel11/coding_problems/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/samjoel11/coding_problems/tree/master/0282-expression-add-operators) |
 | [0335-self-crossing](https://github.com/samjoel11/coding_problems/tree/master/0335-self-crossing) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/samjoel11/coding_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/samjoel11/coding_problems/tree/master/0391-perfect-rectangle) |
 | [0458-poor-pigs](https://github.com/samjoel11/coding_problems/tree/master/0458-poor-pigs) |
 ## Recursion
@@ -111,6 +112,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0336-palindrome-pairs](https://github.com/samjoel11/coding_problems/tree/master/0336-palindrome-pairs) |
 | [0354-russian-doll-envelopes](https://github.com/samjoel11/coding_problems/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/samjoel11/coding_problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/samjoel11/coding_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/samjoel11/coding_problems/tree/master/0391-perfect-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/samjoel11/coding_problems/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/samjoel11/coding_problems/tree/master/0410-split-array-largest-sum) |
@@ -193,6 +195,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0149-max-points-on-a-line](https://github.com/samjoel11/coding_problems/tree/master/0149-max-points-on-a-line) |
 | [0336-palindrome-pairs](https://github.com/samjoel11/coding_problems/tree/master/0336-palindrome-pairs) |
 | [0355-design-twitter](https://github.com/samjoel11/coding_problems/tree/master/0355-design-twitter) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/samjoel11/coding_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/samjoel11/coding_problems/tree/master/0391-perfect-rectangle) |
 | [0432-all-oone-data-structure](https://github.com/samjoel11/coding_problems/tree/master/0432-all-oone-data-structure) |
 ## Two Pointers
@@ -356,6 +359,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/samjoel11/coding_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/samjoel11/coding_problems/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/samjoel11/coding_problems/tree/master/0355-design-twitter) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/samjoel11/coding_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/samjoel11/coding_problems/tree/master/0432-all-oone-data-structure) |
 ## Doubly-Linked List
 |  |
@@ -433,4 +437,8 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/samjoel11/coding_problems/tree/master/0133-clone-graph) |
+## Randomized
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/samjoel11/coding_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
