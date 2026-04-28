@@ -101,6 +101,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0212-word-search-ii](https://github.com/samjoel11/coding_problems/tree/master/0212-word-search-ii) |
 | [0220-contains-duplicate-iii](https://github.com/samjoel11/coding_problems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/samjoel11/coding_problems/tree/master/0239-sliding-window-maximum) |
+| [0303-range-sum-query-immutable](https://github.com/samjoel11/coding_problems/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/samjoel11/coding_problems/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/samjoel11/coding_problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/samjoel11/coding_problems/tree/master/0321-create-maximum-number) |
@@ -343,6 +344,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0146-lru-cache](https://github.com/samjoel11/coding_problems/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/samjoel11/coding_problems/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/samjoel11/coding_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/samjoel11/coding_problems/tree/master/0303-range-sum-query-immutable) |
 | [0432-all-oone-data-structure](https://github.com/samjoel11/coding_problems/tree/master/0432-all-oone-data-structure) |
 ## Doubly-Linked List
 |  |
@@ -408,6 +410,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/samjoel11/coding_problems/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/samjoel11/coding_problems/tree/master/0410-split-array-largest-sum) |
 ## Union-Find
 |  |
