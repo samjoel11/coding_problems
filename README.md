@@ -136,6 +136,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/samjoel11/coding_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/samjoel11/coding_problems/tree/master/0301-remove-invalid-parentheses) |
 | [0336-palindrome-pairs](https://github.com/samjoel11/coding_problems/tree/master/0336-palindrome-pairs) |
+| [0420-strong-password-checker](https://github.com/samjoel11/coding_problems/tree/master/0420-strong-password-checker) |
 ## Simulation
 |  |
 | ------- |
@@ -240,6 +241,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0135-candy](https://github.com/samjoel11/coding_problems/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/samjoel11/coding_problems/tree/master/0321-create-maximum-number) |
 | [0410-split-array-largest-sum](https://github.com/samjoel11/coding_problems/tree/master/0410-split-array-largest-sum) |
+| [0420-strong-password-checker](https://github.com/samjoel11/coding_problems/tree/master/0420-strong-password-checker) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -350,6 +352,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0239-sliding-window-maximum](https://github.com/samjoel11/coding_problems/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/samjoel11/coding_problems/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/samjoel11/coding_problems/tree/master/0407-trapping-rain-water-ii) |
+| [0420-strong-password-checker](https://github.com/samjoel11/coding_problems/tree/master/0420-strong-password-checker) |
 ## Monotonic Queue
 |  |
 | ------- |
