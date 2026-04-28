@@ -87,6 +87,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/samjoel11/coding_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/samjoel11/coding_problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/samjoel11/coding_problems/tree/master/0130-surrounded-regions) |
+| [0134-gas-station](https://github.com/samjoel11/coding_problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/samjoel11/coding_problems/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/samjoel11/coding_problems/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/samjoel11/coding_problems/tree/master/0149-max-points-on-a-line) |
@@ -251,6 +252,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/samjoel11/coding_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/samjoel11/coding_problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/samjoel11/coding_problems/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/samjoel11/coding_problems/tree/master/0321-create-maximum-number) |
 | [0410-split-array-largest-sum](https://github.com/samjoel11/coding_problems/tree/master/0410-split-array-largest-sum) |
