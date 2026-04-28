@@ -54,6 +54,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0002-add-two-numbers](https://github.com/samjoel11/coding_problems/tree/master/0002-add-two-numbers) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/samjoel11/coding_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/samjoel11/coding_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/samjoel11/coding_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/samjoel11/coding_problems/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/samjoel11/coding_problems/tree/master/0147-insertion-sort-list) |
 ## Array
@@ -187,6 +188,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0101-symmetric-tree](https://github.com/samjoel11/coding_problems/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/samjoel11/coding_problems/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/samjoel11/coding_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/samjoel11/coding_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Sliding Window
 |  |
@@ -216,6 +218,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0101-symmetric-tree](https://github.com/samjoel11/coding_problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/samjoel11/coding_problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/samjoel11/coding_problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/samjoel11/coding_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0126-word-ladder-ii](https://github.com/samjoel11/coding_problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/samjoel11/coding_problems/tree/master/0127-word-ladder) |
 ## Trie
@@ -243,6 +246,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/samjoel11/coding_problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/samjoel11/coding_problems/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/samjoel11/coding_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/samjoel11/coding_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
@@ -256,6 +260,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/samjoel11/coding_problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/samjoel11/coding_problems/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/samjoel11/coding_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/samjoel11/coding_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Bucket Sort
 |  |
