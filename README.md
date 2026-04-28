@@ -36,6 +36,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0096-unique-binary-search-trees](https://github.com/samjoel11/coding_problems/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/samjoel11/coding_problems/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/samjoel11/coding_problems/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/samjoel11/coding_problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/samjoel11/coding_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/samjoel11/coding_problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -73,6 +74,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0084-largest-rectangle-in-histogram](https://github.com/samjoel11/coding_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/samjoel11/coding_problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/samjoel11/coding_problems/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/samjoel11/coding_problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/samjoel11/coding_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/samjoel11/coding_problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/samjoel11/coding_problems/tree/master/0135-candy) |
