@@ -45,6 +45,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0152-maximum-product-subarray](https://github.com/samjoel11/coding_problems/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/samjoel11/coding_problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/samjoel11/coding_problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0312-burst-balloons](https://github.com/samjoel11/coding_problems/tree/master/0312-burst-balloons) |
 ## Combinatorics
 |  |
 | ------- |
@@ -89,6 +90,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0212-word-search-ii](https://github.com/samjoel11/coding_problems/tree/master/0212-word-search-ii) |
 | [0220-contains-duplicate-iii](https://github.com/samjoel11/coding_problems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/samjoel11/coding_problems/tree/master/0239-sliding-window-maximum) |
+| [0312-burst-balloons](https://github.com/samjoel11/coding_problems/tree/master/0312-burst-balloons) |
 ## Matrix
 |  |
 | ------- |
