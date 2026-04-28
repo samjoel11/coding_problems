@@ -95,6 +95,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0315-count-of-smaller-numbers-after-self](https://github.com/samjoel11/coding_problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/samjoel11/coding_problems/tree/master/0321-create-maximum-number) |
 | [0335-self-crossing](https://github.com/samjoel11/coding_problems/tree/master/0335-self-crossing) |
+| [0336-palindrome-pairs](https://github.com/samjoel11/coding_problems/tree/master/0336-palindrome-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -128,6 +129,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0282-expression-add-operators](https://github.com/samjoel11/coding_problems/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/samjoel11/coding_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/samjoel11/coding_problems/tree/master/0301-remove-invalid-parentheses) |
+| [0336-palindrome-pairs](https://github.com/samjoel11/coding_problems/tree/master/0336-palindrome-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -161,6 +163,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0140-word-break-ii](https://github.com/samjoel11/coding_problems/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/samjoel11/coding_problems/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/samjoel11/coding_problems/tree/master/0149-max-points-on-a-line) |
+| [0336-palindrome-pairs](https://github.com/samjoel11/coding_problems/tree/master/0336-palindrome-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -245,6 +248,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | ------- |
 | [0140-word-break-ii](https://github.com/samjoel11/coding_problems/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/samjoel11/coding_problems/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/samjoel11/coding_problems/tree/master/0336-palindrome-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -320,6 +324,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/samjoel11/coding_problems/tree/master/0214-shortest-palindrome) |
+| [0336-palindrome-pairs](https://github.com/samjoel11/coding_problems/tree/master/0336-palindrome-pairs) |
 ## Database
 |  |
 | ------- |
