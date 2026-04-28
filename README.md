@@ -120,6 +120,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0224-basic-calculator](https://github.com/samjoel11/coding_problems/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/samjoel11/coding_problems/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/samjoel11/coding_problems/tree/master/0282-expression-add-operators) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/samjoel11/coding_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -192,6 +193,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/samjoel11/coding_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/samjoel11/coding_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/samjoel11/coding_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -223,6 +225,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/samjoel11/coding_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0126-word-ladder-ii](https://github.com/samjoel11/coding_problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/samjoel11/coding_problems/tree/master/0127-word-ladder) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/samjoel11/coding_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -250,6 +253,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/samjoel11/coding_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/samjoel11/coding_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/samjoel11/coding_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -264,6 +268,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/samjoel11/coding_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/samjoel11/coding_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/samjoel11/coding_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -282,6 +287,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | ------- |
 | [0146-lru-cache](https://github.com/samjoel11/coding_problems/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/samjoel11/coding_problems/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/samjoel11/coding_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
