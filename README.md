@@ -98,6 +98,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0335-self-crossing](https://github.com/samjoel11/coding_problems/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/samjoel11/coding_problems/tree/master/0336-palindrome-pairs) |
 | [0391-perfect-rectangle](https://github.com/samjoel11/coding_problems/tree/master/0391-perfect-rectangle) |
+| [0407-trapping-rain-water-ii](https://github.com/samjoel11/coding_problems/tree/master/0407-trapping-rain-water-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -107,6 +108,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0079-word-search](https://github.com/samjoel11/coding_problems/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/samjoel11/coding_problems/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/samjoel11/coding_problems/tree/master/0212-word-search-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/samjoel11/coding_problems/tree/master/0407-trapping-rain-water-ii) |
 ## String
 |  |
 | ------- |
@@ -246,6 +248,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0127-word-ladder](https://github.com/samjoel11/coding_problems/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/samjoel11/coding_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/samjoel11/coding_problems/tree/master/0301-remove-invalid-parentheses) |
+| [0407-trapping-rain-water-ii](https://github.com/samjoel11/coding_problems/tree/master/0407-trapping-rain-water-ii) |
 ## Trie
 |  |
 | ------- |
@@ -342,6 +345,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/samjoel11/coding_problems/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/samjoel11/coding_problems/tree/master/0295-find-median-from-data-stream) |
+| [0407-trapping-rain-water-ii](https://github.com/samjoel11/coding_problems/tree/master/0407-trapping-rain-water-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
