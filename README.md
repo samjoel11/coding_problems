@@ -49,6 +49,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/samjoel11/coding_problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0312-burst-balloons](https://github.com/samjoel11/coding_problems/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/samjoel11/coding_problems/tree/master/0410-split-array-largest-sum) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/samjoel11/coding_problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 ## Combinatorics
 |  |
 | ------- |
@@ -102,6 +103,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0391-perfect-rectangle](https://github.com/samjoel11/coding_problems/tree/master/0391-perfect-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/samjoel11/coding_problems/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/samjoel11/coding_problems/tree/master/0410-split-array-largest-sum) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/samjoel11/coding_problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 ## Matrix
 |  |
 | ------- |
