@@ -91,6 +91,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0220-contains-duplicate-iii](https://github.com/samjoel11/coding_problems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/samjoel11/coding_problems/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/samjoel11/coding_problems/tree/master/0312-burst-balloons) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/samjoel11/coding_problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Matrix
 |  |
 | ------- |
@@ -136,6 +137,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/samjoel11/coding_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/samjoel11/coding_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/samjoel11/coding_problems/tree/master/0162-find-peak-element) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/samjoel11/coding_problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Stack
 |  |
 | ------- |
@@ -282,6 +284,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/samjoel11/coding_problems/tree/master/0220-contains-duplicate-iii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/samjoel11/coding_problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -330,4 +333,20 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/samjoel11/coding_problems/tree/master/0295-find-median-from-data-stream) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/samjoel11/coding_problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/samjoel11/coding_problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/samjoel11/coding_problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/samjoel11/coding_problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
