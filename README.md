@@ -48,6 +48,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0174-dungeon-game](https://github.com/samjoel11/coding_problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/samjoel11/coding_problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0312-burst-balloons](https://github.com/samjoel11/coding_problems/tree/master/0312-burst-balloons) |
+| [0410-split-array-largest-sum](https://github.com/samjoel11/coding_problems/tree/master/0410-split-array-largest-sum) |
 ## Combinatorics
 |  |
 | ------- |
@@ -99,6 +100,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0336-palindrome-pairs](https://github.com/samjoel11/coding_problems/tree/master/0336-palindrome-pairs) |
 | [0391-perfect-rectangle](https://github.com/samjoel11/coding_problems/tree/master/0391-perfect-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/samjoel11/coding_problems/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/samjoel11/coding_problems/tree/master/0410-split-array-largest-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -147,6 +149,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/samjoel11/coding_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/samjoel11/coding_problems/tree/master/0162-find-peak-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/samjoel11/coding_problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0410-split-array-largest-sum](https://github.com/samjoel11/coding_problems/tree/master/0410-split-array-largest-sum) |
 ## Stack
 |  |
 | ------- |
@@ -236,6 +239,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/samjoel11/coding_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/samjoel11/coding_problems/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/samjoel11/coding_problems/tree/master/0321-create-maximum-number) |
+| [0410-split-array-largest-sum](https://github.com/samjoel11/coding_problems/tree/master/0410-split-array-largest-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -374,4 +378,8 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/samjoel11/coding_problems/tree/master/0391-perfect-rectangle) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/samjoel11/coding_problems/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
