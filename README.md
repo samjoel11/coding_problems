@@ -92,6 +92,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0239-sliding-window-maximum](https://github.com/samjoel11/coding_problems/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/samjoel11/coding_problems/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/samjoel11/coding_problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0321-create-maximum-number](https://github.com/samjoel11/coding_problems/tree/master/0321-create-maximum-number) |
 ## Matrix
 |  |
 | ------- |
@@ -147,6 +148,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/samjoel11/coding_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/samjoel11/coding_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/samjoel11/coding_problems/tree/master/0224-basic-calculator) |
+| [0321-create-maximum-number](https://github.com/samjoel11/coding_problems/tree/master/0321-create-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,6 +167,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/samjoel11/coding_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/samjoel11/coding_problems/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/samjoel11/coding_problems/tree/master/0295-find-median-from-data-stream) |
+| [0321-create-maximum-number](https://github.com/samjoel11/coding_problems/tree/master/0321-create-maximum-number) |
 ## Sorting
 |  |
 | ------- |
@@ -216,11 +219,13 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/samjoel11/coding_problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0321-create-maximum-number](https://github.com/samjoel11/coding_problems/tree/master/0321-create-maximum-number) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/samjoel11/coding_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/samjoel11/coding_problems/tree/master/0135-candy) |
+| [0321-create-maximum-number](https://github.com/samjoel11/coding_problems/tree/master/0321-create-maximum-number) |
 ## Breadth-First Search
 |  |
 | ------- |
