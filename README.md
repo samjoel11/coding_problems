@@ -121,6 +121,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0273-integer-to-english-words](https://github.com/samjoel11/coding_problems/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/samjoel11/coding_problems/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/samjoel11/coding_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/samjoel11/coding_problems/tree/master/0301-remove-invalid-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -181,6 +182,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0140-word-break-ii](https://github.com/samjoel11/coding_problems/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/samjoel11/coding_problems/tree/master/0212-word-search-ii) |
 | [0282-expression-add-operators](https://github.com/samjoel11/coding_problems/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/samjoel11/coding_problems/tree/master/0301-remove-invalid-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -226,6 +228,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0126-word-ladder-ii](https://github.com/samjoel11/coding_problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/samjoel11/coding_problems/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/samjoel11/coding_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/samjoel11/coding_problems/tree/master/0301-remove-invalid-parentheses) |
 ## Trie
 |  |
 | ------- |
