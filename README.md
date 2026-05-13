@@ -24,6 +24,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0458-poor-pigs](https://github.com/samjoel11/coding_problems/tree/master/0458-poor-pigs) |
 | [0483-smallest-good-base](https://github.com/samjoel11/coding_problems/tree/master/0483-smallest-good-base) |
 | [0564-find-the-closest-palindrome](https://github.com/samjoel11/coding_problems/tree/master/0564-find-the-closest-palindrome) |
+| [0587-erect-the-fence](https://github.com/samjoel11/coding_problems/tree/master/0587-erect-the-fence) |
 ## Recursion
 |  |
 | ------- |
@@ -128,6 +129,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/samjoel11/coding_problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0472-concatenated-words](https://github.com/samjoel11/coding_problems/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/samjoel11/coding_problems/tree/master/0474-ones-and-zeroes) |
+| [0587-erect-the-fence](https://github.com/samjoel11/coding_problems/tree/master/0587-erect-the-fence) |
 ## Matrix
 |  |
 | ------- |
@@ -336,6 +338,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0149-max-points-on-a-line](https://github.com/samjoel11/coding_problems/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/samjoel11/coding_problems/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/samjoel11/coding_problems/tree/master/0391-perfect-rectangle) |
+| [0587-erect-the-fence](https://github.com/samjoel11/coding_problems/tree/master/0587-erect-the-fence) |
 ## Tree
 |  |
 | ------- |
