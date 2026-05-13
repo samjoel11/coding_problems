@@ -55,6 +55,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0410-split-array-largest-sum](https://github.com/samjoel11/coding_problems/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/samjoel11/coding_problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/samjoel11/coding_problems/tree/master/0458-poor-pigs) |
+| [0488-zuma-game](https://github.com/samjoel11/coding_problems/tree/master/0488-zuma-game) |
 ## Combinatorics
 |  |
 | ------- |
@@ -156,6 +157,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0301-remove-invalid-parentheses](https://github.com/samjoel11/coding_problems/tree/master/0301-remove-invalid-parentheses) |
 | [0336-palindrome-pairs](https://github.com/samjoel11/coding_problems/tree/master/0336-palindrome-pairs) |
 | [0420-strong-password-checker](https://github.com/samjoel11/coding_problems/tree/master/0420-strong-password-checker) |
+| [0488-zuma-game](https://github.com/samjoel11/coding_problems/tree/master/0488-zuma-game) |
 ## Simulation
 |  |
 | ------- |
@@ -183,6 +185,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0150-evaluate-reverse-polish-notation](https://github.com/samjoel11/coding_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/samjoel11/coding_problems/tree/master/0224-basic-calculator) |
 | [0321-create-maximum-number](https://github.com/samjoel11/coding_problems/tree/master/0321-create-maximum-number) |
+| [0488-zuma-game](https://github.com/samjoel11/coding_problems/tree/master/0488-zuma-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -289,6 +292,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/samjoel11/coding_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/samjoel11/coding_problems/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/samjoel11/coding_problems/tree/master/0407-trapping-rain-water-ii) |
+| [0488-zuma-game](https://github.com/samjoel11/coding_problems/tree/master/0488-zuma-game) |
 ## Trie
 |  |
 | ------- |
@@ -300,6 +304,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/samjoel11/coding_problems/tree/master/0140-word-break-ii) |
+| [0488-zuma-game](https://github.com/samjoel11/coding_problems/tree/master/0488-zuma-game) |
 ## Geometry
 |  |
 | ------- |
