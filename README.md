@@ -57,6 +57,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/samjoel11/coding_problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/samjoel11/coding_problems/tree/master/0458-poor-pigs) |
 | [0472-concatenated-words](https://github.com/samjoel11/coding_problems/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/samjoel11/coding_problems/tree/master/0474-ones-and-zeroes) |
 | [0488-zuma-game](https://github.com/samjoel11/coding_problems/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/samjoel11/coding_problems/tree/master/0514-freedom-trail) |
 ## Combinatorics
@@ -125,6 +126,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0410-split-array-largest-sum](https://github.com/samjoel11/coding_problems/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/samjoel11/coding_problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0472-concatenated-words](https://github.com/samjoel11/coding_problems/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/samjoel11/coding_problems/tree/master/0474-ones-and-zeroes) |
 ## Matrix
 |  |
 | ------- |
@@ -166,6 +168,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0336-palindrome-pairs](https://github.com/samjoel11/coding_problems/tree/master/0336-palindrome-pairs) |
 | [0420-strong-password-checker](https://github.com/samjoel11/coding_problems/tree/master/0420-strong-password-checker) |
 | [0472-concatenated-words](https://github.com/samjoel11/coding_problems/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/samjoel11/coding_problems/tree/master/0474-ones-and-zeroes) |
 | [0488-zuma-game](https://github.com/samjoel11/coding_problems/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/samjoel11/coding_problems/tree/master/0514-freedom-trail) |
 ## Simulation
