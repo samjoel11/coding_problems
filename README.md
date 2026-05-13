@@ -23,6 +23,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0391-perfect-rectangle](https://github.com/samjoel11/coding_problems/tree/master/0391-perfect-rectangle) |
 | [0458-poor-pigs](https://github.com/samjoel11/coding_problems/tree/master/0458-poor-pigs) |
 | [0483-smallest-good-base](https://github.com/samjoel11/coding_problems/tree/master/0483-smallest-good-base) |
+| [0564-find-the-closest-palindrome](https://github.com/samjoel11/coding_problems/tree/master/0564-find-the-closest-palindrome) |
 ## Recursion
 |  |
 | ------- |
@@ -171,6 +172,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0474-ones-and-zeroes](https://github.com/samjoel11/coding_problems/tree/master/0474-ones-and-zeroes) |
 | [0488-zuma-game](https://github.com/samjoel11/coding_problems/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/samjoel11/coding_problems/tree/master/0514-freedom-trail) |
+| [0564-find-the-closest-palindrome](https://github.com/samjoel11/coding_problems/tree/master/0564-find-the-closest-palindrome) |
 ## Simulation
 |  |
 | ------- |
