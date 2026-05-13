@@ -112,6 +112,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0315-count-of-smaller-numbers-after-self](https://github.com/samjoel11/coding_problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/samjoel11/coding_problems/tree/master/0321-create-maximum-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/samjoel11/coding_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/samjoel11/coding_problems/tree/master/0332-reconstruct-itinerary) |
 | [0335-self-crossing](https://github.com/samjoel11/coding_problems/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/samjoel11/coding_problems/tree/master/0336-palindrome-pairs) |
 | [0354-russian-doll-envelopes](https://github.com/samjoel11/coding_problems/tree/master/0354-russian-doll-envelopes) |
@@ -158,6 +159,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0282-expression-add-operators](https://github.com/samjoel11/coding_problems/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/samjoel11/coding_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/samjoel11/coding_problems/tree/master/0301-remove-invalid-parentheses) |
+| [0332-reconstruct-itinerary](https://github.com/samjoel11/coding_problems/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/samjoel11/coding_problems/tree/master/0336-palindrome-pairs) |
 | [0420-strong-password-checker](https://github.com/samjoel11/coding_problems/tree/master/0420-strong-password-checker) |
 | [0488-zuma-game](https://github.com/samjoel11/coding_problems/tree/master/0488-zuma-game) |
@@ -223,6 +225,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0147-insertion-sort-list](https://github.com/samjoel11/coding_problems/tree/master/0147-insertion-sort-list) |
 | [0220-contains-duplicate-iii](https://github.com/samjoel11/coding_problems/tree/master/0220-contains-duplicate-iii) |
 | [0295-find-median-from-data-stream](https://github.com/samjoel11/coding_problems/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/samjoel11/coding_problems/tree/master/0332-reconstruct-itinerary) |
 | [0354-russian-doll-envelopes](https://github.com/samjoel11/coding_problems/tree/master/0354-russian-doll-envelopes) |
 ## Backtracking
 |  |
@@ -255,6 +258,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0133-clone-graph](https://github.com/samjoel11/coding_problems/tree/master/0133-clone-graph) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/samjoel11/coding_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/samjoel11/coding_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/samjoel11/coding_problems/tree/master/0332-reconstruct-itinerary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -405,6 +409,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/samjoel11/coding_problems/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/samjoel11/coding_problems/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/samjoel11/coding_problems/tree/master/0332-reconstruct-itinerary) |
 | [0355-design-twitter](https://github.com/samjoel11/coding_problems/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/samjoel11/coding_problems/tree/master/0407-trapping-rain-water-ii) |
 | [0420-strong-password-checker](https://github.com/samjoel11/coding_problems/tree/master/0420-strong-password-checker) |
@@ -451,6 +456,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | ------- |
 | [0133-clone-graph](https://github.com/samjoel11/coding_problems/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/samjoel11/coding_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/samjoel11/coding_problems/tree/master/0332-reconstruct-itinerary) |
 ## Randomized
 |  |
 | ------- |
@@ -459,4 +465,8 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/samjoel11/coding_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/samjoel11/coding_problems/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
