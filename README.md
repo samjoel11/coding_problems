@@ -129,6 +129,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/samjoel11/coding_problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0472-concatenated-words](https://github.com/samjoel11/coding_problems/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/samjoel11/coding_problems/tree/master/0474-ones-and-zeroes) |
+| [0566-reshape-the-matrix](https://github.com/samjoel11/coding_problems/tree/master/0566-reshape-the-matrix) |
 | [0587-erect-the-fence](https://github.com/samjoel11/coding_problems/tree/master/0587-erect-the-fence) |
 ## Matrix
 |  |
@@ -143,6 +144,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/samjoel11/coding_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/samjoel11/coding_problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0407-trapping-rain-water-ii](https://github.com/samjoel11/coding_problems/tree/master/0407-trapping-rain-water-ii) |
+| [0566-reshape-the-matrix](https://github.com/samjoel11/coding_problems/tree/master/0566-reshape-the-matrix) |
 ## String
 |  |
 | ------- |
@@ -179,6 +181,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/samjoel11/coding_problems/tree/master/0068-text-justification) |
+| [0566-reshape-the-matrix](https://github.com/samjoel11/coding_problems/tree/master/0566-reshape-the-matrix) |
 ## Binary Search
 |  |
 | ------- |
