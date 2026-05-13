@@ -56,6 +56,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0410-split-array-largest-sum](https://github.com/samjoel11/coding_problems/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/samjoel11/coding_problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/samjoel11/coding_problems/tree/master/0458-poor-pigs) |
+| [0472-concatenated-words](https://github.com/samjoel11/coding_problems/tree/master/0472-concatenated-words) |
 | [0488-zuma-game](https://github.com/samjoel11/coding_problems/tree/master/0488-zuma-game) |
 ## Combinatorics
 |  |
@@ -122,6 +123,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0407-trapping-rain-water-ii](https://github.com/samjoel11/coding_problems/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/samjoel11/coding_problems/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/samjoel11/coding_problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0472-concatenated-words](https://github.com/samjoel11/coding_problems/tree/master/0472-concatenated-words) |
 ## Matrix
 |  |
 | ------- |
@@ -162,6 +164,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0332-reconstruct-itinerary](https://github.com/samjoel11/coding_problems/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/samjoel11/coding_problems/tree/master/0336-palindrome-pairs) |
 | [0420-strong-password-checker](https://github.com/samjoel11/coding_problems/tree/master/0420-strong-password-checker) |
+| [0472-concatenated-words](https://github.com/samjoel11/coding_problems/tree/master/0472-concatenated-words) |
 | [0488-zuma-game](https://github.com/samjoel11/coding_problems/tree/master/0488-zuma-game) |
 ## Simulation
 |  |
@@ -227,6 +230,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0295-find-median-from-data-stream](https://github.com/samjoel11/coding_problems/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/samjoel11/coding_problems/tree/master/0332-reconstruct-itinerary) |
 | [0354-russian-doll-envelopes](https://github.com/samjoel11/coding_problems/tree/master/0354-russian-doll-envelopes) |
+| [0472-concatenated-words](https://github.com/samjoel11/coding_problems/tree/master/0472-concatenated-words) |
 ## Backtracking
 |  |
 | ------- |
@@ -259,6 +263,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/samjoel11/coding_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/samjoel11/coding_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/samjoel11/coding_problems/tree/master/0332-reconstruct-itinerary) |
+| [0472-concatenated-words](https://github.com/samjoel11/coding_problems/tree/master/0472-concatenated-words) |
 ## Sliding Window
 |  |
 | ------- |
@@ -309,6 +314,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0212-word-search-ii](https://github.com/samjoel11/coding_problems/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/samjoel11/coding_problems/tree/master/0336-palindrome-pairs) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/samjoel11/coding_problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0472-concatenated-words](https://github.com/samjoel11/coding_problems/tree/master/0472-concatenated-words) |
 ## Memoization
 |  |
 | ------- |
