@@ -79,6 +79,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0147-insertion-sort-list](https://github.com/samjoel11/coding_problems/tree/master/0147-insertion-sort-list) |
 | [0355-design-twitter](https://github.com/samjoel11/coding_problems/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/samjoel11/coding_problems/tree/master/0432-all-oone-data-structure) |
+| [0838-design-linked-list](https://github.com/samjoel11/coding_problems/tree/master/0838-design-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -399,6 +400,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0355-design-twitter](https://github.com/samjoel11/coding_problems/tree/master/0355-design-twitter) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/samjoel11/coding_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/samjoel11/coding_problems/tree/master/0432-all-oone-data-structure) |
+| [0838-design-linked-list](https://github.com/samjoel11/coding_problems/tree/master/0838-design-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
