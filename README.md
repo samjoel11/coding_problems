@@ -11,6 +11,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | [0062-unique-paths](https://github.com/samjoel11/coding_problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/samjoel11/coding_problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/samjoel11/coding_problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/samjoel11/coding_problems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/samjoel11/coding_problems/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/samjoel11/coding_problems/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/samjoel11/coding_problems/tree/master/0149-max-points-on-a-line) |
@@ -37,6 +38,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 | ------- |
 | [0062-unique-paths](https://github.com/samjoel11/coding_problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/samjoel11/coding_problems/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/samjoel11/coding_problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/samjoel11/coding_problems/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/samjoel11/coding_problems/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/samjoel11/coding_problems/tree/master/0091-decode-ways) |
@@ -334,6 +336,7 @@ I use this repo to improve my problem-solving skills, strengthen DSA concepts, a
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/samjoel11/coding_problems/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/samjoel11/coding_problems/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/samjoel11/coding_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0488-zuma-game](https://github.com/samjoel11/coding_problems/tree/master/0488-zuma-game) |
